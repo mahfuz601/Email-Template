@@ -1,2 +1,1 @@
-# Email-Template
-Responsive Email-Template
+# email-template
